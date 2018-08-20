@@ -19,6 +19,7 @@
  * Version:           1.0.0
  * Author:            Michael Schofield
  * Author URI:        https://schoeyfield.com
+ * GitHub Plugin URI: https://github.com/michaelschofield/avon-lake-public-library
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       alpl

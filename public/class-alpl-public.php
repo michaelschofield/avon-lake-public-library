@@ -3,7 +3,6 @@
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       https://schoeyfield.com
  * @since      1.0.0
  *
  * @package    Alpl

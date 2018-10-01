@@ -15,10 +15,9 @@
  * @wordpress-plugin
  * Plugin Name:       Avon Lake Public Library
  * Plugin URI:        https://www.alpl.org
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       A plugin to help consolidate custom functionality for the Avon Lake Public Library
  * Version:           1.0.0
- * Author:            Michael Schofield
- * Author URI:        https://schoeyfield.com
+ * Author:            Nick Kelley, Michael Schofield
  * GitHub Plugin URI: https://github.com/michaelschofield/avon-lake-public-library
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
